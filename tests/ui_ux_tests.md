@@ -32,8 +32,3 @@
 - Use `st.markdown` for styled text output
 - Add tooltips for dropdowns
 - Make output area scrollable if the post is too long
-
-## ScreenShots
-
-![UI Screenshot](images/ui_ux.png)
-![UI Screenshot](images/ui_ux2.png)
