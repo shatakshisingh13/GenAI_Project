@@ -21,21 +21,21 @@ This project generates professional LinkedIn posts based on **topic**, **length*
 - 🔄 Git & GitHub for version control
 
 ## 📂 Folder Structure
-GenAI project/
+
+GenAI-project/
 │
-├── main.py # Streamlit UI
-
-├── preprocess.py # Metadata extraction
-
-├── post_generator.py # Post creation logic
-
-├── few_shot.py # Few-shot prompt examples
-
+├── main.py                # Streamlit UI
+├── preprocess.py          # Metadata extraction using LLM
+├── post_generator.py      # Post creation logic using tags, length, language
+├── few_shot.py            # Few-shot examples for consistent generation
+│
 ├── data/
-│ ├── raw_posts.json
-│ └── processed_posts.json
-├── .gitignore
-└── README.md
+│   ├── raw_posts.json         # Input data
+│   └── processed_posts.json   # Output after preprocessing
+│
+├── .gitignore             # Files/folders to ignore in Git
+└── README.md              # Project description and usage instructions
+
 
 # 📦 Setup
 
