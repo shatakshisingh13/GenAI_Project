@@ -21,7 +21,7 @@ This project generates professional LinkedIn posts based on **topic**, **length*
 - 🔄 Git & GitHub for version control
 
 ## 📂 Folder Structure
-
+```bash
 GenAI-project/
 │
 ├── main.py                # Streamlit UI
