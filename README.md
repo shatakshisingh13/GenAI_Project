@@ -49,9 +49,7 @@ GenAI-project/
 │
 │   └── ui_ux_tests.md               # UI/UX feedback & screenshot documentation
 │
-├── README.md                        # Main project documentation
-└── other_project_files...
-
+├── requirements.txt           # All the dependencies
 ├── .gitignore             # Files/folders to ignore in Git
 └── README.md              # Project description and usage instructions
 
