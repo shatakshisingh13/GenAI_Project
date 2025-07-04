@@ -36,7 +36,7 @@ GenAI-project/
 ├── .gitignore             # Files/folders to ignore in Git
 └── README.md              # Project description and usage instructions
 
-
+```
 # 📦 Setup
 
 1. Clone the repo
