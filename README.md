@@ -24,9 +24,13 @@ This project generates professional LinkedIn posts based on **topic**, **length*
 GenAI project/
 │
 ├── main.py # Streamlit UI
+
 ├── preprocess.py # Metadata extraction
+
 ├── post_generator.py # Post creation logic
+
 ├── few_shot.py # Few-shot prompt examples
+
 ├── data/
 │ ├── raw_posts.json
 │ └── processed_posts.json
